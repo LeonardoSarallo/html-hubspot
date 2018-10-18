@@ -17,6 +17,20 @@
   border: 1px solid black;
 
 }
+.leftfloat {
+  width: 50%;
+  height: 100%;
+  float: left;
+  background-color: blue;
+
+}
+.rightfloat {
+  width: 50%;
+  height: 100%;
+  float: left;
+  background-color: red;
+}
+
 
 
 }
@@ -32,23 +46,7 @@
   height: 100px;
   background-color: black;
 }
-.leftfloat {
-  width: 30%;
-  height: 100%;
+.item {
   float: left;
-  background-color: blue;
-
-}
-.centerfloat {
-  width: 30%;
-  height: 100%;
-  float: left;
-  background-color: yellow;
-
-}
-.rightfloat {
-  width: 40%;
-  height: 100%;
-  float: right;
-  background-color: red;
+  margin: 0 20px;
 }
