@@ -18,6 +18,7 @@
 
 
 }
+/* inizio left float */
 .leftfloat {
   width: 50%;
   height: 100%;
@@ -33,17 +34,40 @@
   color: lightgrey;
 
 }
-
+/* inizio right flow */
 .rightfloat {
   width: 50%;
   height: 100%;
   float: left;
 
 }
+
+.itemrightfloat {
+  float: left;
+  margin: 0 20px;
+  line-height: 70px
+}
+
+
+}
 .itemsearch {
   color: #46bdcf;
 }
+.btn {
+  padding: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  border-color: orange;
 
+}
+.btnsign {
+  background: white;
+  color: orange;
+}
+.btngetfree {
+  background: orange;
+  color: white;
+}
 
 
 
