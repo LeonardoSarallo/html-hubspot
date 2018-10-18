@@ -54,7 +54,7 @@
   color: #46bdcf;
 }
 .btn {
-  padding: 20px;
+  padding: 10px;
   border-radius: 5px;
   text-decoration: none;
   border-color: orange;
@@ -63,9 +63,10 @@
 .btnsign {
   background: white;
   color: orange;
+  border: 1px solid #ff7a59;
 }
 .btngetfree {
-  background: orange;
+  background: #ff7a59;
   color: white;
 }
 
