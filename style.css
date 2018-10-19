@@ -168,7 +168,7 @@
 .main {
   background-image: linear-gradient(to right, #09A7BF, rgba(18, 182, 207, 0.55));
   width: 100%;
-  height: 400px;
+  height: 500px;
 
 }
 
@@ -202,5 +202,14 @@ p {
   margin-top: 100px;
 }
 .navbottom {
+  margin-top: 50px;
+}
+.mainptwo {
+  color: white;
+  font-size: 10px;
+
+
+}
+.p_two {
   margin-top: 50px;
 }
