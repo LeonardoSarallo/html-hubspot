@@ -15,6 +15,8 @@
 .container {
   width: 60%;
   margin: 0 auto;
+  height: 100%;
+
 
 }
 .headerfixed {
@@ -36,8 +38,9 @@
 }
 .item {
   float: left;
-  padding: 10px;
-  line-height: 35px;
+  line-height: 70px;
+  height: 100%
+  padding: 20px
 }
 .line {
   color: lightgrey;
@@ -85,21 +88,34 @@
   border-top: 1px solid black;
   background-color: white;
   margin-top: 70px;
-  
+
 
 }
+
+.navlfl {
+  width: 40%;
+  height: 100%;
+  float: left;
+
+}
+
+.navrfl {
+  width: 60%;
+  height: 100%;
+  float: right;
+  text-align: right;
+  line-height: 100px;
+
+
+}
+
 .logo {
   margin-top: 35px;
   margin-left: 10px;
 
 
-}
-/* .navlfl {
-  background: red; */
 
-}
-.itemnav {
-  text-decoration: none;
+
 }
 .headerbottom {
   width: 100%;
