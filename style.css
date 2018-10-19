@@ -40,7 +40,10 @@
   float: left;
   line-height: 70px;
   height: 100%
-  padding: 20px
+  padding: 20px;
+  margin: 0 25px;
+  color: #33475b
+
 }
 .line {
   color: lightgrey;
@@ -107,6 +110,11 @@
   line-height: 100px;
 
 
+}
+.itemnav {
+  text-decoration: none;
+  color: #33475b;
+  margin: 0 25px;
 }
 
 .logo {
