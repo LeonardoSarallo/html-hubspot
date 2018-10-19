@@ -17,12 +17,14 @@
   background-color: #F5F8FA;
 
 
+
 }
 /* inizio left float */
 .leftfloat {
   width: 50%;
   height: 100%;
   float: left;
+  
 
 }
 .item {
@@ -41,15 +43,15 @@
   float: left;
 
 }
-
-.itemrightfloat {
+.itemrfl {
   float: left;
-  margin: 0 20px;
-  line-height: 70px
+  margin: 0 40px;
+  line-height: 70px;
+
 }
 
 
-}
+
 .itemsearch {
   color: #46bdcf;
 }
