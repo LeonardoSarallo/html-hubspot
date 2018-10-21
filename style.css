@@ -17,7 +17,6 @@
   margin: 0 auto;
   height: 100%;
 
-
 }
 .headerfixed {
   width: 100%;
@@ -28,12 +27,13 @@
   left: 0;
 
 }
+
 /* inizio left float */
+
 .leftfloat {
   width: 50%;
   height: 100%;
   float: left;
-
 
 }
 .item {
@@ -55,7 +55,6 @@
   height: 100%;
   float: left;
   text-align: right;
-
 
 }
 .itemrfl {
@@ -84,16 +83,15 @@
   background: #ff7a59;
   color: white;
 }
-
 .headernav {
   width: 100%;
   height: 100px;
   border-top: 1px solid black;
   background-color: white;
   margin-top: 70px;
-
-
 }
+
+/* inizio nav */
 
 .navlfl {
   width: 40%;
@@ -107,9 +105,9 @@
   margin-left: 10px;
 
 
-
-
 }
+
+/* inizio nav rfl */
 
 .navrfl {
   width: 60%;
@@ -126,6 +124,7 @@
   margin: 0 20px;
 }
 
+/* inizio headerobottom */
 
 .headerbottom {
   width: 100%;
@@ -165,6 +164,9 @@
   border-radius: 5px;
 
 }
+
+/* inizio main */
+
 .main {
   background-image: linear-gradient(to right, #09A7BF, rgba(18, 182, 207, 0.55));
   width: 100%;
@@ -212,4 +214,24 @@ p {
 }
 .p_two {
   margin-top: 50px;
+}
+
+.learnmore {
+  width: 100%;
+  height: 1500px;
+  background: #F5F8FA;
+  color: #33475b
+
+}
+.cubeimage {
+  height: 200px;
+  margin: 5% 35%;
+
+}
+.imgtextcont {
+  text-align: center;
+}
+.imgtextcont > h2 {
+  font-size: 30px;
+
 }
