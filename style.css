@@ -278,4 +278,24 @@ p {
 .fhtext > p {
   margin-right: 150px;
   font-size: 15px;
+
+}
+
+
+.fhcheck div, .fhcheck i, .fhcheck p {
+  float: left;
+}
+.fhcheck i {
+margin-top: 50px;
+
+}
+.fhcheck > p {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 20px;
+
+
+}
+.fhcheck {
+  margin-bottom: 50px;
 }
