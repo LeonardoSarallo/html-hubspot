@@ -245,6 +245,7 @@ p {
   width: 50%;
   height: 100%;
   float: left;
+  background: white;
 }
 .frhubsptright {
   width: 50%;
@@ -253,11 +254,12 @@ p {
 }
 .frhubsptleft img {
   height: 150px;
-  margin: 5% 10%;
+  margin: 20px 100px;
 }
 .lrnlink {
 
-  margin-left: 100px;
+  margin-left: 140px;
+  margin-top: 25px;
 }
 .lrnbutton {
   color: white;
@@ -265,6 +267,15 @@ p {
   border-radius: 5px;
   text-decoration: none;
   border: 1px solid #ff7a59;
-  padding: 0px;
+  padding: 15px;
 
+}
+.fhtext > h2 {
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+.fhtext > p {
+  margin-right: 150px;
+  font-size: 15px;
 }
