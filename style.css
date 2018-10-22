@@ -404,19 +404,25 @@ color: #FF7A59
 .tableup {
   height: 200px;
   width: 100%;
-  background: green;
+
 }
 
 
 .firstsquare {
   width: 25%;
   height: 100%;
-  background: white;
+  text-align: center;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+
 }
 .secondsquare {
   width: 25%;
   height: 100%;
-  background: pink;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+
+  text-align: center;
 }
 .thirdsquare {
   width: 25%;
@@ -432,4 +438,21 @@ color: #FF7A59
 }
 .square {
   float: left;
+}
+.firstsquare img {
+  display: block;
+  margin: 0 auto;
+
+
+}
+.tableitem {
+  margin: 30px 0;
+}
+.plus {
+  font-size: 40px;
+  color: white;
+}
+.usergroup {
+  color: white;
+  font-size: 12px;
 }
