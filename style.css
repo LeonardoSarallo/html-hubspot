@@ -308,11 +308,13 @@ color: #FF7A59
   width: 100%;
   height: 600px;
   background: #F5F8FA;
+  margin-bottom: 150px;
 
 }
 .spotconteiner {
   width: 100%;
-  height: 100%;
+  height: 600px;
+
 
 
 
@@ -333,7 +335,9 @@ color: #FF7A59
   height: 130px
 }
 .leftspot {
-  background: pink;
+  width: 100%;
+  height: 600px:
+
 }
 .centerspot {
 
@@ -373,5 +377,12 @@ color: #FF7A59
 .spotconteiner > div i {
   color: #ff7a59;
   margin-right: 20px;
+
+}
+.grid {
+  width: 100%;
+  height: 500px;
+  background: red;
+  background: linear-gradient(to right, #09A7BF,#00BDA5);
 
 }
