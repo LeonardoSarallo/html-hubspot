@@ -302,7 +302,32 @@ color: #FF7A59
 }
 .threespot {
   width: 100%;
-  height: 500px;
-  background: red;
-  padding: : 100 0px
+  height: 600px;
+  background: #F5F8FA;
+
+}
+.spotconteiner {
+  width: 100%;
+  height: 100%;
+  background: green;
+  
+
+}
+.spotconteiner > div {
+  float: left;
+  width: calc(100% / 3);
+  height: 100%;
+
+
+}
+.leftspot {
+  background: pink;
+}
+.centerspot {
+  background: orange;
+
+}
+.rightspot {
+  background: black;
+
 }
