@@ -353,4 +353,25 @@ color: #FF7A59
 .spotconteiner > div p {
   font-size: 12px;
   text-align: center;
+  margin: 25px 0;
+
+}
+.spotconteiner > div span {
+  display: block;
+  text-align: center;
+  margin: 20px 0;
+
+}
+.spotconteiner > div ul {
+  list-style: none;
+}
+.spotconteiner > div li {
+  color: #33475b;
+  margin: 5px 0;
+
+}
+.spotconteiner > div i {
+  color: #ff7a59;
+  margin-right: 20px;
+
 }
