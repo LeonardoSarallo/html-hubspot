@@ -406,8 +406,6 @@ color: #FF7A59
   width: 100%;
 
 }
-
-
 .firstsquare {
   width: 25%;
   height: 100%;
@@ -422,8 +420,6 @@ color: #FF7A59
   border-bottom: 1px solid white;
   border-right: 1px solid white;
   text-align: center;
-
-
 }
 .thirdsquare {
   width: 25%;
@@ -449,7 +445,6 @@ color: #FF7A59
 
 }
 
-
 .usergroup {
   color: white;
   font-size: 12px;
@@ -457,7 +452,6 @@ color: #FF7A59
 .milion {
   font-size: 40px;
   color: white;
-
 
 }
 .monthly {
@@ -467,6 +461,33 @@ color: #FF7A59
 .tabledown {
   height: 200px;
   width: 100%;
-  border-bottom:
 
+}
+.firstsec {
+  width: 25%;
+  height: 100%;
+  border-right: 1px solid white;
+  text-align: center;
+  padding: 20px 0;
+}
+.secondsec {
+  width: 25%;
+  height: 100%;
+  border-right: 1px solid white;
+  text-align: center;
+  padding: 20px 0;
+
+}
+.thirdsec {
+  width: 25%;
+  height: 100%;
+  border-right: 1px solid white;
+  text-align: center;
+  padding: 20px 0;
+}
+.fourthsec {
+  width: 25%;
+  height: 100%;
+  padding: 20px 0;
+  text-align: center;
 }
